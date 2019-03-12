@@ -1,0 +1,33 @@
+# IP Address whitelist
+192.168.0.0/16
+172.16.0.0/12
+10.0.0.0/8
+127.0.0.1
+
+# Domain Name Or URL whitelist
+^[A-Za-z0-9\-\.]*\.doc$
+^[A-Za-z0-9\-\.]*\.txt$
+^[A-Za-z0-9\-\.]*\.zip$
+^[A-Za-z0-9\-\.]*\.rar$
+^[A-Za-z0-9\-\.]*\.exe$
+^[A-Za-z0-9\-\.]*\.html$
+^[A-Za-z0-9\-\.]*\.php$
+^[A-Za-z0-9\-\.]*\.vbs$
+^[A-Za-z0-9\-\.]*\.png$
+^[A-Za-z0-9\-\.]*\.jpg$
+^[A-Za-z0-9\-\.]*\.jpeg$
+^[A-Za-z0-9\-\.]*\.js$
+^[A-Za-z0-9\-\.]*\.dll$
+^[A-Za-z0-9\-\.]*\.scr$
+^[A-Za-z0-9\-\.]*\.xls$
+^[A-Za-z0-9\-\.]*\.apk$
+.*(\.|/)virustotal.com$
+.*(\.|/)any.run$
+.*(\.|/)hybrid-analysis.com$
+.*(\.|/)reverseit.com$
+.*(\.|/)virusbay.io$
+^virustotal.com$
+^any.run$
+^hybrid-analysis.com$
+^reverseit.com$
+^virusbay.io$
